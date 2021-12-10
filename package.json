@@ -1,0 +1,11 @@
+{
+  "name": "frontend-clasificacion-leucocitos",
+  "version": "1.0.0",
+  "description": "Website where you can upload leukocytes image and predict the kind of the leucocyte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Rojas Alvarez",
+  "license": "ISC"
+}
